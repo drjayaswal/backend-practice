@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "DQE & ARB",
   icons: {
-    icon: "/public/favicon.ico",
+    icon: "public/favicon.ico",
   },
 };
 

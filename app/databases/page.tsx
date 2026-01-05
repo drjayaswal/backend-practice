@@ -67,14 +67,14 @@ export default function DatabasePractice() {
   };
 
   return (
-    <div className="min-h-screen bg-white font-sans relative overflow-hidden p-2 sm:p-6">
+    <div className="min-h-screen bg-[#F9DFDF] font-sans relative overflow-hidden p-2 sm:p-6">
       <div className="p-4 min-h-[calc(100vh-1rem)] sm:min-h-[calc(100vh-3rem)] border-[3px] sm:border-[8px] border-black rounded-2xl sm:rounded-3xl bg-[#FF6B9D] shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] sm:shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] relative transform transition-transform duration-300">
         <div className="absolute inset-2 sm:inset-4 border-4 border-black rounded-xl sm:rounded-2xl border-dashed opacity-40"></div>
 
-        <div className="absolute top-2.5 left-2  w-3 h-3 sm:w-6 sm:h-6 bg-white border-6 border-black rounded-full"></div>
-        <div className="absolute top-2.5 right-2  w-3 h-3 sm:w-6 sm:h-6 bg-white border-6 border-black rounded-full"></div>
-        <div className="absolute bottom-2.5 left-2  w-3 h-3 sm:w-6 sm:h-6 bg-white border-6 border-black rounded-full"></div>
-        <div className="absolute bottom-2.5 right-2 w-3 h-3 sm:w-6 sm:h-6 bg-white border-6 border-black rounded-full"></div>
+        <div className="absolute top-2.5 left-2  w-3 h-3 sm:w-6 sm:h-6 bg-[#F9DFDF] border-6 border-black rounded-full"></div>
+        <div className="absolute top-2.5 right-2  w-3 h-3 sm:w-6 sm:h-6 bg-[#F9DFDF] border-6 border-black rounded-full"></div>
+        <div className="absolute bottom-2.5 left-2  w-3 h-3 sm:w-6 sm:h-6 bg-[#F9DFDF] border-6 border-black rounded-full"></div>
+        <div className="absolute bottom-2.5 right-2 w-3 h-3 sm:w-6 sm:h-6 bg-[#F9DFDF] border-6 border-black rounded-full"></div>
         
         <div className="relative z-10 p-3 sm:p-6 lg:p-8">
       <Link href="/" className="text-black inline-block mb-3 sm:mb-6 px-3 sm:px-4 py-2 sm:py-3 bg-[#FF6B9D] hover:bg-[#F1E2E2] border-2 sm:border-[3px] border-transparent hover:border-black rounded-lg sm:rounded-xl font-black text-sm sm:text-base hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] sm:hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all">
